@@ -1,0 +1,65 @@
+.pop-outer{
+    bsckground-color:rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.pop-inner{
+    bsckground-color:#fff;
+    width: 500px;
+    height: 300px;
+    padding: 25px;
+    margin: 15% auto;
+}
+#ss{
+    height: 50px;
+    width: 500px;
+}
+#digbox{
+    display: none;
+    width: 480px;
+    position: fixed;
+    background-color:#7c7d7e;
+    border-radius: 10px;
+    z-index: 9999;
+}
+#dig-header{
+    background-color:#6d84b4;
+    color:white;
+    font-size:20px;
+    padding: 10px;
+    margin: 10px 10px 0px 10px;
+}
+#dig-body{
+    background-color:white;
+    color:black;
+    font-size:14px;
+    padding: 10px;
+    margin: 0px 10px 0px 10px;
+}
+#dig-footer{
+    background-color:#f2f2f2;
+    padding: 10px;
+    text-align: right;
+    margin: 0px 10px 10px 10px;
+}
+#dig-footer button{
+    background-color:#6d84b4;
+    color:white;
+    padding: 5px;
+    border: 0px;
+}
+#white-background{
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color:#fefefe;
+    opacity: 0.7;
+    z-index: 9999;
+}
+

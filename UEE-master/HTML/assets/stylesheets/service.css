@@ -1,0 +1,178 @@
+.box1{
+    text-align: center;
+    border: 1px white ;
+    width: 200px;
+    height: 25px;
+    font-family: "Source Code Pro", "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+    font-size: large;
+    font-family: bold;
+    color:white;
+    background-color: black;
+}
+
+#wrap{
+    width: 1390px;
+    height: 400px;
+    background-color: 	#DCDCDC;
+}
+#wrap4{
+    width: 1390px;
+    height: 200px;
+    background-color: 	#DCDCDC;
+}
+#wrap5{
+    width: 1390px;
+    height: 75px;
+    background-color: 	#DCDCDC;
+}
+#wrap6{
+    width: 1390px;
+    height: 50px;
+    background-color: 	#DCDCDC;
+}
+.sec1{
+    width: 450px;
+    height: 123px;
+    float: left;
+    background-color: 	#DCDCDC;
+
+}
+.sec2{
+    width: 450px;
+    height: 123px;
+    float: left;
+}
+
+.sec3{
+    width: 450px;
+    height: 123px;
+    float: left;
+}
+.fsec1{
+    width: 1300px;
+    height: 123px;
+    position: fixed;
+    top: 30%;
+    bottom: 50%;
+    left: 45%;
+    right: 50%;
+}
+.newsec{
+    width: 600px;
+    height: 123px;
+    float: left;
+
+}
+
+#twrap{
+    width: 1390px;
+    height: 700px;
+    background-color: 	#DCDCDC;
+}
+
+.tsec1{
+    width: 675px;
+    height: 200px;
+    float: left;
+    background-color: 	#DCDCDC;
+
+}
+.tsec2{
+    width: 600px;
+    height: 200px;
+    float: right;
+    background-color: 	#DCDCDC;
+
+}
+/*.d1{
+    width: 400px;
+    height: 123px;
+    float: left;
+
+}*/
+
+.content{
+    margin: 0 auto;
+    width:600px;
+    padding: 10px;
+    min-height: 300px;
+    align:left;
+
+}
+
+.read-more{
+    padding :15px;
+    margin-bottom: 20px;
+}
+.read-more-link,.show-less-link{
+    text-decoration: none;
+    font-weight: bolder;
+}
+.button1{
+    background-color: #1E90FF;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    float:right;
+    padding: 5px 15px;
+
+}
+.fontings{
+    font-size: 19px;
+}
+.fontings2{
+    width: 1390px;
+    height: 400px;
+    background-color: 	#DCDCDC;
+
+}
+.succ{
+    font-size: 50px;
+    color:	#008000;
+    font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+}
+.insec1{
+    width: 450px;
+    height: 60px;
+    background-color: 	#DCDCDC;
+    float: left;
+
+}
+.inseca{
+    width: 300px;
+    height: 60px;
+    background-color: 	#DCDCDC;
+    float: left;
+
+}
+.insecb{
+    width: 200px;
+    height: 60px;
+    background-color: 	#DCDCDC;
+    float: left;
+
+}
+.insec2{
+    width: 450px;
+    height: 60px;
+    background-color: 	#DCDCDC;
+    float: right;
+}
+.imagesec{
+    width: 450px;
+    height: 123px;
+    background-color: 	#808080;
+
+}
+.selbox1{
+    height : 5%;
+}
+.alert{
+    display: none;
+}
+
+.a{
+    float: right;
+}
+.bgrd{
+    background-color:#b09086;;
+}

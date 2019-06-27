@@ -1,0 +1,69 @@
+.btn22{
+
+    width: 1390px;
+    height: 75px;
+
+
+    background-color: #DCDCDC;
+}
+.button2{
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    border-radius: 40%;
+    padding: 13px;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    float:right;
+
+    width: 4%;
+}
+.button3{
+     width: 2.5%;
+     padding: 10px;
+     text-align: center;
+     float:right;
+     color: white;
+     border: black;
+
+     background-color: 	#0088cc;
+ }
+.button3a{
+    width: 100px;
+    top:100%;
+    lefr:75%;
+    font-size: 15px;
+    bottom: 50%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border: black;
+    height:2.5%;
+
+    background-color: 	#0088cc;
+}
+.button4{
+    width: 2.5%;
+    padding: 10px;
+    text-align: center;
+    float:right;
+    color: black;
+    background-color:white;
+    border: black;
+}
+.button5{
+    background-color: 	#D3D3D3;
+    color: black;
+    font-size: 25px;
+    border-radius: 40%;
+    padding: 13px;
+    border: none;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    float:right;
+
+    width: 4%;
+}
